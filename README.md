@@ -29,6 +29,7 @@ Ensure Python is installed. Install the required libraries using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 Usage and Results:
+
 Data Preprocessing
 We cleaned up the dataset to make sure it's ready for use. This means fixing any missing values, getting rid of weird data, and making sure everything is in the right format. 
 
