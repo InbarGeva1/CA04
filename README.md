@@ -31,9 +31,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 Usage and Results:
 
 Data Preprocessing
+
 We cleaned up the dataset to make sure it's ready for use. This means fixing any missing values, getting rid of weird data, and making sure everything is in the right format. 
 
 Model Building and Optimization
+
 We used three different types of models to try and guess if someone earns more or less than 50K, based on their info:
 
 Random Forest Model: This one uses simple models with decision trees to get a better overall prediction. 
